@@ -40,19 +40,19 @@ const Index = () => {
                                 <h2 className="text-center text-light">Portfolio</h2>
                             </div>
                             {
-                                webs.map(({ name, description, image }, i) => (
+                                webs.map(({ name, description, image, repo }, i) => (
                                     <div className="col-md-4 p-2" key={i}>
                                         <div className="card">
-                                            <Link href="https://github.com/alvaro-z">
-                                            <div className="overflow">
-                                                <img src={`/${image}`} className="card-img-top" />
-                                            </div>
+                                            <Link href={repo}>
+                                                <div className="overflow">
+                                                    <img src={`/${image}`} className="card-img-top" />
+                                                </div>
                                             </Link>
 
                                             <h3>{name}</h3>
                                             <p>{description}</p>
-                                            
-                                            <Link href="/">
+
+                                            <Link href={repo}>
                                                 <a>Ver mas</a>
                                             </Link>
                                         </div>
@@ -60,7 +60,7 @@ const Index = () => {
                                 ))
                             }
                         </div>
-                       {/*  <div className="text-center mt-4">
+                        {/*  <div className="text-center mt-4">
                             <Link href="/">
                                 <a className="btn btn-outline-light">Mas</a>
                             </Link>

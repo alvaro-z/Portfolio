@@ -95,16 +95,19 @@ export const webs =[
     {
         name:"Propiedades del oeste",
         description: "Aplicación web Ecommerce de venta de inmuebles desarrollada con PERN Stack y Redux.",
-        image:"propiedades_del_oeste.png"
+        image:"propiedades_del_oeste.png",
+        repo:"https://github.com/alvaro-z/props_del_oeste"
     },
     {
         name:"Alguien Dijo Vino?",
         description: "Aplicación web Ecommerce orientada a la venta de vinos desarrollada PERN Stack y Redux. Grupal con 5 Devs.",
-        image:"alguienDijoVino.png"
+        image:"alguienDijoVino.png",
+        repo:"https://github.com/alvaro-z/AlguienDijoVino"
     },
     {
         name:"TMDB",
         description: "Aplicación web de búsqueda de películas desarrollada en PERN Stack.",
-        image:"tmdb1.png"
+        image:"tmdb1.png",
+        repo:"https://github.com/alvaro-z/Tmdb-clon"
     },
 ]
