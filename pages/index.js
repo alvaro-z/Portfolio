@@ -42,7 +42,7 @@ const Index = () => {
                                         <div className="card">
                                             <Link href={repo}>
                                                 <div className="overflow">
-                                                    <img src={`/${image}`} className="card-img-to" />
+                                                    <img src={`/${image}`} className="card-img-top " />
                                                 </div>
                                             </Link>
 
