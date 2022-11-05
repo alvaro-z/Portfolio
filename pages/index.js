@@ -17,7 +17,7 @@ const Index = () => {
                             <div className="col-md-8">
                                 <h1>Alvaro Zalbaveascoba</h1>
                                 <h3>FullStack Developer</h3>
-                                <p>Desarrollodor PERN Stack apasionado por la tecnologia.Me
+                                <p>Desarrollador PERN Stack apasionado por la tecnologia.Me
                                     considero una persona dinámica y enérgica,
                                     que disfruta de ayudar a los demás.</p>
                                 <Link href="../Alvaro_Zalbaveascoba_CV.pdf">
