@@ -17,9 +17,7 @@ const Index = () => {
                             <div className="col-md-8">
                                 <h1>Alvaro Zalbaveascoba</h1>
                                 <h3>FullStack Developer</h3>
-                                <p>Desarrollador PERN Stack apasionado por la tecnologia.Me
-                                    considero una persona dinámica y enérgica,
-                                    que disfruta de ayudar a los demás.</p>
+                                <p>Soy un desarrollador Full Stack con experiencia en el uso del stack PERN (PostgreSQL, Express, React y Node.js) para el desarrollo de aplicaciones web y móviles escalables y de alta disponibilidad. Me especializo en JavaScript y tengo habilidades avanzadas en el uso de React para el desarrollo de interfaces de usuario y en el uso de Node.js y Express para el desarrollo del lado del servidor. También tengo experiencia en el uso de PostgreSQL para el manejo de bases de datos y en el diseño de esquemas de bases de datos. Me gusta trabajar en proyectos desafiantes y estoy constantemente buscando aprender nuevas habilidades y tecnologías relacionadas con PERN.</p>
                                 <Link href="../Alvaro_Zalbaveascoba_CV.pdf">
                                     <a id="cv">Ver CV</a>
                                 </Link>
