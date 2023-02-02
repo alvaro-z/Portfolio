@@ -1,4 +1,4 @@
-export const skills = [
+export const Skills = [
     {
         skill: "ReactJS"
     },
@@ -41,7 +41,7 @@ export const skills = [
 
 ]
 
-export const experience = [
+export const Experience = [
     {
         position: "Tutor de Javascript",
         business:"CoderHouse",
@@ -51,7 +51,7 @@ export const experience = [
     }
 
 ]
-export const porjects = [
+export const Projects = [
     {
         title: "Propiedades Del Oeste",
         description: "Aplicación web Ecommerce de venta de inmuebles desarrollada con PERN Stack y Redux.",
@@ -91,7 +91,7 @@ export const porjects = [
 
 ]
 
-export const webs =[
+export const Websites =[
     {
         name:"Propiedades del oeste",
         description: "Aplicación web Ecommerce de venta de inmuebles desarrollada con PERN Stack y Redux.",
